@@ -1,6 +1,6 @@
 # WBC_identification
-In this study a white blood cell image classifier was developed.
-• The initial data set of around 360 images was augmented through different methods to
+## In this study a white blood cell image classifier was developed.
+  • The initial data set of around 360 images was augmented through different methods to
 increase the training/testing set.
 • Several architectures and parameters were tested through gradual increase of the model
 capacity and final model was selected for the final training / testing. The simple architecture
